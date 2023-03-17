@@ -1,1 +1,2 @@
 Whitelist deployed contract Address on Rinkeby Test Network :- 0x5848Ca8616498a0a7C681Bb67aB9e07E9b172a80
+Whitelist deployed contract Address on Goerli  Test Network :- 0x0CB0603702a757a2233081731A83CCA224796EED
